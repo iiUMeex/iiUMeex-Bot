@@ -1,0 +1,2 @@
+# iiUMeex-Bot
+PREFIX =  *
